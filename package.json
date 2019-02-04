@@ -1,5 +1,5 @@
 {
-  "name": "serverless-parser",
+  "name": "serverlessq",
   "version": "0.0.1",
   "description": "Serverless API, Message and Event Routing.",
   "main": "index.js",

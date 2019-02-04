@@ -1,4 +1,4 @@
-# serverless-routing
+# serverlessq
 A Node JS module for serverless application routing.
 
 ## Supported Services  
