@@ -1,0 +1,120 @@
+{
+    "resource": "/mock",
+    "path": "/mock",
+    "httpMethod": "GET",
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate",
+        "cache-control": "no-cache",
+        "CloudFront-Forwarded-Proto": "https",
+        "CloudFront-Is-Desktop-Viewer": "true",
+        "CloudFront-Is-Mobile-Viewer": "false",
+        "CloudFront-Is-SmartTV-Viewer": "false",
+        "CloudFront-Is-Tablet-Viewer": "false",
+        "CloudFront-Viewer-Country": "NZ",
+        "Content-Type": "application/json",
+        "Host": "i87mpw49g8.execute-api.ap-southeast-2.amazonaws.com",
+        "Postman-Token": "39fa9461-43c1-4126-93e7-e1af3c72409f",
+        "User-Agent": "PostmanRuntime/7.6.0",
+        "Via": "1.1 f865f1be74e5f717fcfbc68b80767134.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Id": "WW72ajaS_1frLYiOpfqEwDdB6v5M8RmiCVm5YkigWWjnYpG9WgEQyg==",
+        "X-Amzn-Trace-Id": "Root=1-5c4a6b13-b592d340b47685b01c5d2d28",
+        "X-Forwarded-For": "49.224.214.102, 70.132.29.78",
+        "X-Forwarded-Port": "443",
+        "X-Forwarded-Proto": "https"
+    },
+    "multiValueHeaders": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate"
+        ],
+        "cache-control": [
+            "no-cache"
+        ],
+        "CloudFront-Forwarded-Proto": [
+            "https"
+        ],
+        "CloudFront-Is-Desktop-Viewer": [
+            "true"
+        ],
+        "CloudFront-Is-Mobile-Viewer": [
+            "false"
+        ],
+        "CloudFront-Is-SmartTV-Viewer": [
+            "false"
+        ],
+        "CloudFront-Is-Tablet-Viewer": [
+            "false"
+        ],
+        "CloudFront-Viewer-Country": [
+            "NZ"
+        ],
+        "Content-Type": [
+            "application/json"
+        ],
+        "Host": [
+            "i87mpw49g8.execute-api.ap-southeast-2.amazonaws.com"
+        ],
+        "Postman-Token": [
+            "39fa9461-43c1-4126-93e7-e1af3c72409f"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.6.0"
+        ],
+        "Via": [
+            "1.1 f865f1be74e5f717fcfbc68b80767134.cloudfront.net (CloudFront)"
+        ],
+        "X-Amz-Cf-Id": [
+            "WW72ajaS_1frLYiOpfqEwDdB6v5M8RmiCVm5YkigWWjnYpG9WgEQyg=="
+        ],
+        "X-Amzn-Trace-Id": [
+            "Root=1-5c4a6b13-b592d340b47685b01c5d2d28"
+        ],
+        "X-Forwarded-For": [
+            "49.224.214.102, 70.132.29.78"
+        ],
+        "X-Forwarded-Port": [
+            "443"
+        ],
+        "X-Forwarded-Proto": [
+            "https"
+        ]
+    },
+    "queryStringParameters": null,
+    "multiValueQueryStringParameters": null,
+    "pathParameters": null,
+    "stageVariables": null,
+    "requestContext": {
+        "resourceId": "7tdbuq",
+        "resourcePath": "/mock",
+        "httpMethod": "GET",
+        "extendedRequestId": "UCWrHGiOywMFx1A=",
+        "requestTime": "25/Jan/2019:01:49:07 +0000",
+        "path": "/dev/mock",
+        "accountId": "163057906376",
+        "protocol": "HTTP/1.1",
+        "stage": "dev",
+        "domainPrefix": "i87mpw49g8",
+        "requestTimeEpoch": 1548380947924,
+        "requestId": "6748ea2d-2043-11e9-8e77-7d8b8d665160",
+        "identity": {
+            "cognitoIdentityPoolId": null,
+            "accountId": null,
+            "cognitoIdentityId": null,
+            "caller": null,
+            "sourceIp": "49.224.214.102",
+            "accessKey": null,
+            "cognitoAuthenticationType": null,
+            "cognitoAuthenticationProvider": null,
+            "userArn": null,
+            "userAgent": "PostmanRuntime/7.6.0",
+            "user": null
+        },
+        "domainName": "i87mpw49g8.execute-api.ap-southeast-2.amazonaws.com",
+        "apiId": "i87mpw49g8"
+    },
+    "body": null,
+    "isBase64Encoded": false
+}

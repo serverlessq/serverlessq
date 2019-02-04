@@ -1,0 +1,29 @@
+{
+  "name": "serverless-parser",
+  "version": "0.0.1",
+  "description": "Serverless API, Message and Event Routing.",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha test/*.js -- -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverlessq/serverlessq.git"
+  },
+  "dependencies": {
+    "path-to-regexp": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.3.1",
+    "webpack": "^4.29.0"
+  },
+  "author": "Teem Cloud <suport@teem.cloud>",
+  "license": "MIT"
+}
